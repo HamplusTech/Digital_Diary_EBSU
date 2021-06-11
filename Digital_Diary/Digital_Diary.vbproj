@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3B356A29-3F07-4CCF-B49D-BA89AE8825F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Digital_Diary.My.MyApplication</StartupObject>
+    <RootNamespace>Digital_Diary</RootNamespace>
+    <AssemblyName>Digital_Diary</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ApplicationIcon>3dsmaxSZ.ico</ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Digital_Diary.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Digital_Diary.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="DBops.vb" />
+    <Compile Include="Digital_DiaryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Digital_DiaryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmalarm.Designer.vb">
+      <DependentUpon>frmalarm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmalarm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmanniversary.Designer.vb">
+      <DependentUpon>frmanniversary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmanniversary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbio.Designer.vb">
+      <DependentUpon>frmbio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmbio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcontactinfo.Designer.vb">
+      <DependentUpon>frmcontactinfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcontactinfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmedudata.Designer.vb">
+      <DependentUpon>frmedudata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmedudata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcontact.Designer.vb">
+      <DependentUpon>frmcontact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcontact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhealth.Designer.vb">
+      <DependentUpon>frmhealth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmhealth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogininfo.Designer.vb">
+      <DependentUpon>frmlogininfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogininfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmemoletter.Designer.vb">
+      <DependentUpon>frmmemoletter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmemoletter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmobility.Designer.vb">
+      <DependentUpon>frmmobility.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmobility.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmphonebook.Designer.vb">
+      <DependentUpon>frmphonebook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmphonebook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmregistration.Designer.vb">
+      <DependentUpon>frmregistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmregistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmschedule.Designer.vb">
+      <DependentUpon>frmschedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmschedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsetting.Designer.vb">
+      <DependentUpon>frmsetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtodolist.Designer.vb">
+      <DependentUpon>frmtodolist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmtodolist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmweb.Designer.vb">
+      <DependentUpon>frmweb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmweb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmmyprofile.Designer.vb">
+      <DependentUpon>frmmyprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmyprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmalarm.resx">
+      <DependentUpon>frmalarm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmanniversary.resx">
+      <DependentUpon>frmanniversary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbio.resx">
+      <DependentUpon>frmbio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcontactinfo.resx">
+      <DependentUpon>frmcontactinfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmedudata.resx">
+      <DependentUpon>frmedudata.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcontact.resx">
+      <DependentUpon>frmcontact.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhealth.resx">
+      <DependentUpon>frmhealth.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogininfo.resx">
+      <DependentUpon>frmlogininfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmemoletter.resx">
+      <DependentUpon>frmmemoletter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmobility.resx">
+      <DependentUpon>frmmobility.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmphonebook.resx">
+      <DependentUpon>frmphonebook.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmregistration.resx">
+      <DependentUpon>frmregistration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmschedule.resx">
+      <DependentUpon>frmschedule.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsetting.resx">
+      <DependentUpon>frmsetting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtodolist.resx">
+      <DependentUpon>frmtodolist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmweb.resx">
+      <DependentUpon>frmweb.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmyprofile.resx">
+      <DependentUpon>frmmyprofile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3dsmaxSZ.ico" />
+    <None Include="app.config" />
+    <None Include="Digital_DiaryDataSet.xsc">
+      <DependentUpon>Digital_DiaryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Digital_DiaryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Digital_DiaryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Digital_DiaryDataSet.xss">
+      <DependentUpon>Digital_DiaryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\anniversary 2.jpg" />
+    <None Include="Resources\rss.gif" />
+    <None Include="Resources\Logo.jpg" />
+    <None Include="Resources\reminder bannar - scheduler.jpg" />
+    <None Include="Resources\reminder bannar - Alarm.jpg" />
+    <None Include="Resources\reminder bannar.png" />
+    <None Include="Resources\to do list.png" />
+    <None Include="Resources\schudler.png" />
+    <None Include="Resources\call.png" />
+    <None Include="Resources\alarm.png" />
+    <None Include="Resources\rss.png" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\MainStkButton.PNG" />
+    <None Include="Resources\MainHelpButton.PNG" />
+    <None Include="Resources\MainConfigButton.PNG" />
+    <None Include="Resources\MainInternetButton.PNG" />
+    <None Include="Resources\MainMsgButton.PNG" />
+    <None Include="Resources\MainPonebookButton.PNG" />
+    <None Include="Resources\DataInterfaceBack.PNG" />
+    <None Include="Resources\EARTH editted 2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
