@@ -1,0 +1,96 @@
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.exe
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.pdb
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.xml
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.Main.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.Resources.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.vbproj.GenerateResource.Cache
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.exe
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.xml
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.pdb
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.LoginForm1.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.SplashScreen1.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.Register.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmmyprofile.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmbio.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmcontact.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmedudata.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmhealth.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmmobility.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmcontactinfo.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmschedule.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmalarm.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmtodolist.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.AboutBox1.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmanniversary.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmphonebook.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmweb.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmlogininfo.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmmemoletter.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmsetting.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmregistration.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.exe.config
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.exe.config
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\bin\Debug\Digital_Diary.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.AboutBox1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmalarm.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmanniversary.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmbio.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmcontactinfo.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmedudata.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmcontact.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmhealth.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmlogininfo.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmmemoletter.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmmobility.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmphonebook.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmregistration.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmschedule.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmsetting.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmtodolist.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmweb.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.LoginForm1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.Main.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.frmmyprofile.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.Register.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.SplashScreen1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary\Digital_Diary\obj\Debug\Digital_Diary.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\bin\Debug\Digital_Diary.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\bin\Debug\Digital_Diary.exe.config
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.AboutBox1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmalarm.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmanniversary.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmbio.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmcontactinfo.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmedudata.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmcontact.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmhealth.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmlogininfo.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmmemoletter.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmmobility.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmphonebook.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmregistration.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmschedule.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmsetting.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmtodolist.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmweb.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.LoginForm1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.Main.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.frmmyprofile.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.Register.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.SplashScreen1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\obj\Debug\Digital_Diary.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\bin\Debug\Digital_Diary.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Digital_Diary_EBSU\Digital_Diary\bin\Debug\Digital_Diary.xml
